@@ -1,10 +1,10 @@
 # API testing using Jmeter
 
-The aim of this project is perform basic API testing of REST services and Assertions using Jmeter. Tests will also make use of parameters.
+The aim of this project is to perform basic API testing of REST services and Assertions using Jmeter. Tests will also make use of parameters.
 
 ## Getting Started
 
-This project is a Jmeter project. To access this project, import this project download the GK Assessment - API.jmx file into your local machine. Navigate to where your Jmeter folder is located in your machine, copy and paste the jmx file into your Jmeter bin directory. Open Jmeter and open the file in Jmeter by clicking File > Open and locate your jmx file.
+This project is a Jmeter project. To access this project, download the GK Assessment - API.jmx file into your local machine. Navigate to where your Jmeter folder is located in your machine, copy and paste the jmx file into your Jmeter bin directory. Open Jmeter and open the file in Jmeter by clicking File > Open and locate your jmx file.
 
 ## Prerequisites
 

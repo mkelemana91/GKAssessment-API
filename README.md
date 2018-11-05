@@ -40,3 +40,12 @@ View results here - any errors related to assertions will be displayed here
 ```
 ![](https://github.com/mkelemana91/GKAssessment-API/blob/master/Images/5.PNG)
 
+```bash
+Expected output
+```
+From Results Tree - only one test must fail (red)
+![](https://github.com/mkelemana91/GKAssessment-API/blob/master/Images/5.PNG)
+
+From Assertions Results - No errors should be displayed
+![](https://github.com/mkelemana91/GKAssessment-API/blob/master/Images/5.PNG)
+
